@@ -89,3 +89,10 @@ ul.navbar li a {
 ul.navbar li a:hover {
   color:yellow;
 }
+
+.text-container{
+  max-width:450px;
+  padding-left:1rem;
+  padding-right:1rem;
+  margin-left: 20%;
+}
