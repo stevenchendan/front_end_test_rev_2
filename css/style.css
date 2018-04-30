@@ -96,3 +96,75 @@ ul.navbar li a:hover {
   padding-right:1rem;
   margin-left: 20%;
 }
+
+.section{
+	position: absolute;
+  width: 100%;
+  padding:20px 0;
+  left: 0;
+}
+
+.first-section {
+	background:#333;
+  color:#fff;
+  margin-top: -10px;
+}
+
+.card-title {
+  text-align: center;
+	vertical-align: middle;
+  font-size: 40px;
+	margin-top: 100px;
+	
+}
+
+#service {
+	margin-bottom: 10%;
+}
+
+.cards {
+  margin: 0 auto;
+  max-width: 1200px;
+  display: flex;
+	flex-flow: row wrap;
+}
+
+.cards div {
+  flex: auto;
+  margin: 20px 40px 20px 40px;
+  margin-top: 10px;
+  height: 400px;
+  width: 500px;
+}
+
+#card-1 {
+	background-color: #08aad8;
+}
+
+#card-3 {
+  color: black;
+  background-color: white;
+}
+
+#card-4 {
+  color: black;
+  background-color: #bfd30a;
+}
+
+.cards h2 {
+	padding-top: 40px;
+	font-weight: 700;
+}
+
+.card-text {
+	max-width: 300px;
+	padding-left: 10%;
+}
+
+#story-text {
+  text-align: center;
+  vertical-align: middle;
+  max-width: 900px;
+  margin-left: 20%;
+  margin-top: 5%;
+}
